@@ -41,7 +41,7 @@
         "illuminate/console": "*",
         "illuminate/database": "*",
         "illuminate/support": "*",
-        "rinvex/laravel-support": "*",
+        "rinvex/laravel-support": "^6.0",
         "spatie/eloquent-sortable": "*",
         "spatie/laravel-sluggable": "*",
         "spatie/laravel-translatable": "*"
@@ -76,6 +76,6 @@
             ]
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
