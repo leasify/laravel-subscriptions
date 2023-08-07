@@ -36,20 +36,14 @@
             "homepage": "https://github.com/rinvex/laravel-subscriptions/contributors"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/laravel-shift/uniquewith-validator.git"
-        }
-    ],
     "require": {
-        "php": "^8.0.0",
-        "illuminate/console": "^9.0.0 || ^10.0.0",
-        "illuminate/database": "^9.0.0 || ^10.0.0",
-        "illuminate/support": "^9.0.0 || ^10.0.0",
+        "php": "^8.1",
+        "illuminate/console": "*",
+        "illuminate/database": "*",
+        "illuminate/support": "*",
         "rinvex/laravel-support": "*",
-        "spatie/eloquent-sortable": "^4.0.0",
-        "spatie/laravel-sluggable": "^3.3.0",
+        "spatie/eloquent-sortable": "*",
+        "spatie/laravel-sluggable": "*",
         "spatie/laravel-translatable": "*"
     },
     "require-dev": {
