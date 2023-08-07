@@ -41,6 +41,7 @@
         "illuminate/console": "*",
         "illuminate/database": "*",
         "illuminate/support": "*",
+        "watson/validating": "^8.0.0",
         "rinvex/laravel-support": "7.0.1",
         "spatie/eloquent-sortable": "*",
         "spatie/laravel-sluggable": "*",
